@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  width: 1440px;
+  height: 72px;
+
+  color: #000;
+  
+  justify: space-between;
+  flex-direction: row;
+}

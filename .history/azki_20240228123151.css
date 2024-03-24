@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 1440px;
+  height: 72px;
+  position: fixed;
+  color: #000;
+  padding: 16px 144px 16px 144px;
+
+}
+
+
+.nav li{
+ display: flex;
+  justify: space-between;
+  flex-direction: row;
+
+}

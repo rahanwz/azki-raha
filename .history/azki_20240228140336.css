@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.links {
+  width: 100%;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px, 144px, 16px, 144px;
+  background-color: blue;
+  color: #000;
+}
+a
+li {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  flex-direction: space-between;
+}

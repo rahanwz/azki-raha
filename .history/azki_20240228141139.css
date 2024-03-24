@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.links {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: blue;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.nav{
+    height: 100%;
+    background-color: aqua;
+}
+
+
+a {
+  color: #000;
+}
+li {
+    wi
+  list-style: none;
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  flex-direction: space-between;
+}
